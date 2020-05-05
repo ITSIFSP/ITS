@@ -23,7 +23,7 @@ para:
 Execute os seguintes comandos no diretório laragon/www/ para obter e configurar o projeto:
 
 ```bash
-Copie a pasta ITS para o diretório
+git clone https://github.com/ITSIFSP/ITS.git
 ```
 
 ```bash
